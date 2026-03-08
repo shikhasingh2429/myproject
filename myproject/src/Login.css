@@ -1,0 +1,10 @@
+.icon{
+position:absolute;
+right:20px;
+top:50px;
+translate:0 -50%;
+font-size: 25px;
+}
+.register-link p a{
+    font-weight:600;
+}
